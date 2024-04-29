@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\GD Classes\bin\Debug\net8.0\GD Classes.exe
+C:\Users\Administrator\source\repos\GD Classes\bin\Debug\net8.0\GD Classes.deps.json
+C:\Users\Administrator\source\repos\GD Classes\bin\Debug\net8.0\GD Classes.runtimeconfig.json
+C:\Users\Administrator\source\repos\GD Classes\bin\Debug\net8.0\GD Classes.dll
+C:\Users\Administrator\source\repos\GD Classes\bin\Debug\net8.0\GD Classes.pdb
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\GD Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\GD Classes.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\GD Classes.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\GD Classes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\GD Classes.dll
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\refint\GD Classes.dll
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\GD Classes.pdb
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\GD Classes.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\GD Classes\obj\Debug\net8.0\ref\GD Classes.dll
